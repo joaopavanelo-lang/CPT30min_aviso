@@ -25,8 +25,8 @@ TURNO_PARA_IDS = {
         "1268695707",  # Claudio Olivatto
     ],
     "Turno 2": [
-        "1386559133",  # Murilo Santana
-        "1298055860",  # Matheus Damas
+      #  "1386559133",  # Murilo Santana
+        "1239955709",  # Vitor Azeredo
         "1432898616",  # Leonardo Caus
         
     ],
@@ -49,7 +49,7 @@ DIAS_DE_FOLGA = {
 
     # --- Turno 2 ---
     "1386559133": [6, 0],   # Murilo Santana (Dom, Seg)
-    "1298055860": [6],      # Matheus Damas (Dom)
+    "1239955709": [6],      # Vitor Azeredo (Dom)
     "1432898616": [4, 5], # Leonardo Caus (Folga Seg a Sab)
 
     # --- Turno 3 ---
