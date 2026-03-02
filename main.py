@@ -26,7 +26,7 @@ TURNO_PARA_IDS = {
     ],
     "Turno 2": [
         "1458031670",  # Beatriz Quintiliano
-        "1189260998",  # Vitor Azeredo 
+        "1239955709",  # Vitor Azeredo 
         "1281984509",  # Rafael Almeida
         "1432898616",  # Leonardo Caus
         
