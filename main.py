@@ -35,6 +35,7 @@ TURNO_PARA_IDS = {
         "1277449046",  # Felipe B Alves
         "1436962469",  # Jose Guilherme Paco
         "9474534910",  # Kaio Baldo
+        "9491699714",  # Vinicius Quintiliano
         "1499919880",  # Sandor Nemes
     ]
 }
@@ -58,6 +59,7 @@ DIAS_DE_FOLGA = {
     "1277449046": [6, 0],      # Felipe B Alves (Dom, Seg)
     "1436962469": [6, 0],      # Jose Guilherme Paco (Dom, Seg)
     "9474534910": [6, 0],      # Kaio Baldo (Dom, Seg)
+    "9491699714": [6],         # Vinicius Quintiliano
     "1499919880": [6],         # Sandor Nemes (Dom)
 }
 
