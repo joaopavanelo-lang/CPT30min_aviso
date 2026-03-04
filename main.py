@@ -51,7 +51,7 @@ DIAS_DE_FOLGA = {
     # --- Turno 2 ---
     "1458031670": [6, 0],   # Murilo Santana (Dom, Seg)
     "1189260998": [6],      # Vitor Azeredo (Dom) # joao cobrindo T2
-    "1281984509": [6]       # Rafael Almeida
+    "1281984509": [6],       # Rafael Almeida
     "1432898616": [4, 5],   # Leonardo Caus (Folga Seg a Sab)
 
     # --- Turno 3 ---
