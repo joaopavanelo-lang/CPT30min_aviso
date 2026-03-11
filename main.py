@@ -19,6 +19,7 @@ FUSO_HORARIO_SP = timezone('America/Sao_Paulo')
 # 👥 DICIONÁRIO DE PESSOAS POR TURNO (COM IDS REAIS!)
 TURNO_PARA_IDS = {
     "Turno 1": [
+        "1491699724",  # Yago Pátio
         "1461929762",  # Iromar Souza
         "1449480651",  # Ana Julia Lopes
         "9465967606",  # Fidel Lúcio Férias
@@ -44,6 +45,7 @@ TURNO_PARA_IDS = {
 # 0=Seg, 1=Ter, 2=Qua, 3=Qui, 4=Sex, 5=Sab, 6=Dom
 DIAS_DE_FOLGA = {
     # --- Turno 1 ---
+    "1491699724": [6],       # Yago Pátio
     "1461929762": [5, 6],    # Iromar Souza (Dom)
     "1449480651": [5, 6],    # Ana Julia Lopes (Sab, Dom)
     "9465967606": [5, 6],    # Fidel Lúcio (Sab, Dom)
